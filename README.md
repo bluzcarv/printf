@@ -1,5 +1,5 @@
 # FT_PRINTF
-## *Project in C language part of 42 course (https://www.42sp.org.br/)*
+*Project in C language part of 42 course (https://www.42sp.org.br/)*
 
 ###### In this project we program our own printf function
 > This project is pretty straight forward. You will recode printf. You will mainly learn how to use variadic arguments.
